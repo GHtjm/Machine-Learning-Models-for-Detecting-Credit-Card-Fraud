@@ -18,7 +18,7 @@ This project uses machine learning models to detect fraudulent credit card trans
 5. Hyperparameter tuning to optimize model accuracy.
 
 ## Results
-- Achieved an AUC-ROC of 0.95, reducing false positives by X%.
+- Achieved results: 
 
 ## How to Use
 1. Clone the repository.
